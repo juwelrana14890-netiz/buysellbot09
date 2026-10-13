@@ -1,0 +1,7 @@
+aiogram
+SQLAlchemy[asyncio]
+greenlet
+aiosqlite
+openpyxl
+python-dotenv
+aiohttp
